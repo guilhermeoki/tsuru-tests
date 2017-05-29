@@ -1,0 +1,12 @@
+endpoint: "http://127.0.0.1:8080"
+user: "test@example.com"
+pass: "123456"
+platform: "test-platform"
+team: "test-team"
+code: "test-code-path"
+healthcheck:
+  path: "/"
+  status: 200
+envs:
+  - pool: "pool-test"
+    plan: "plan-test"

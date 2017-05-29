@@ -1,0 +1,11 @@
+pip-selfcheck.json
+
+*.py[cod]
+bin/
+include/
+lib/
+lib64*
+.vscode
+*/**.pyc
+*/test.yml
+
