@@ -4,7 +4,7 @@ chardet==3.0.3
 idna==2.5
 packaging==16.8
 pyparsing==2.2.0
-PyYAML==3.12
+PyYAML==5.4
 requests==2.11.1
 six==1.10.0
 tsuruclient==0.3.12
